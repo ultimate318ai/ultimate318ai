@@ -15,7 +15,7 @@ I am currently improving myself in *Quality Assurance* in IOT web applications (
  - Python
  - RobotFramework
  - Latex
- - Svelte
+ - Angular
  - Typescript
  - basic notions of Javascript
  - Html/CSS
